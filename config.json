@@ -1,0 +1,6 @@
+{
+    "resourcePrefix": "kendrasearchui",
+    "name": "KendraSearchUICDN",
+    "websiteDistPath": "../KendraSearchUI/build",
+    "deploymentVersion": "1.0.0"
+}

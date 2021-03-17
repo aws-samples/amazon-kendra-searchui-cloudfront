@@ -1,11 +1,25 @@
-## My Project
+## Kendra Search Serverless web application using Amazon API Gateway & AWS Lambda
+This project aims to help you provision a ready-to-use website for kendra search UI using s3 and cloudfront by simply running few CDK commands.
 
-TODO: Fill this README out!
 
-Be sure to:
+![](images/arch-overview.png)
 
-* Change the title in this README
-* Edit your repository description on GitHub
+## Prerequisites
+- [x] Create Kendra serverless webstack as per [steps](https://github.com/aws-samples/amazon-kendra-serverless-webstack)
+
+## Set up
+
+```bash
+npm install
+```
+
+## Available Scripts
+
+### Deploy
+ ```bash
+cdk bootstrap
+cdk deploy
+```
 
 ## Security
 
