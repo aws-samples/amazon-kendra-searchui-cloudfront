@@ -1,4 +1,4 @@
-## Kendra Search Serverless web application using Amazon API Gateway & AWS Lambda
+## Building Amazon Kendra search UI using Amaozn S3 and Amazon CloudFront
 This project aims to help you provision a ready-to-use website for kendra search UI using s3 and cloudfront by simply running few CDK commands.
 
 
